@@ -7,3 +7,12 @@
     font-size: 25px;
     text-align: center;
 }
+
+.icon_nav{
+    background-color: rgb(249, 124, 184);
+    position: relative;
+    float: right;
+    width: 4%;
+    border-radius: 3px;
+    margin-right: 3px;
+}
